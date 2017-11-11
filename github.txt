@@ -1,2 +1,8 @@
-# ProjectWeb1
-This is the "web 1" project of the team.
+		****** ĐÂY LÀ FILE NOTE CHUNG CỦA NHÓM, FILE GIỚI THIỆU CỦA WEBSITE(KHI HOÀN THÀNH) ******
+					***DỰ ÁN XÂY DỰNG WEBSITE CHO CHUỖI NHÀ HÀNG VÀ KHÁCH SẠN C2D ***
+		*** Tên dự án (website): C2D a Hotels and Restaurants (Chuỗi nhà hàng và khách sạn C2D) ***
+
+** PHẦN GHI CHÚ CHUNG **
+	# Mỗi lần push, pull, ... thì nhớ note lại những ý gì cần thiết phải biết cho các thành viên khác nắm nhé!
+	- Nội Dung:
+		+ Link tìm hình ảnh phục vụ cho việc format template: https://www.pexels.com/search/food/.
