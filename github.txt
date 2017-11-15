@@ -5,4 +5,8 @@
 ** PHẦN GHI CHÚ CHUNG **
 	# Mỗi lần push, pull, ... thì nhớ note lại những ý gì cần thiết phải biết cho các thành viên khác nắm nhé!
 	- Nội Dung:
-		+ Link tìm hình ảnh phục vụ cho việc format template: https://www.pexels.com/search/food/.
+		- Host:
+			+ Email tạo tài khoản host (000webhost): teamdcd15ck1@gmail.com | mk: 15ck1team
+			+ Host: teamdcd15ck1@gmail.com | mk: 15ck1team
+		- Link:
+			+ Link tìm hình ảnh phục vụ cho việc format template: https://www.pexels.com/search/food/.
